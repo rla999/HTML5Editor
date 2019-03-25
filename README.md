@@ -2,6 +2,12 @@
 Class project for Java OOP. Done as a group with two other people. So far, integrates the mechanism to generate code for and save to a file for the image, link, and table components.
 
 <h2>Changelog:</h2>
+
+<h3>v0.2 - 03/25/2019</h3>
+<ul>
+  <li>Added the group member's image component -- unmodified. Not integrated yet into the main HTML5 editor app.</li>
+  </ul>
+
 <h3>v0.1 - 03/25/2019</h3>
 <ul>
   <li>I am personally responsible for designing and coding the table component.</li>
