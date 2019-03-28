@@ -3,6 +3,10 @@ Class project for Java OOP. Done as a group with two other people. So far, integ
 
 <h2>Changelog:</h2>
 
+<h3>v1.0 - Final product here to present to class.</h3>
+<ul>Fixed HTML output, added major CSS for styling.</ul>
+<ul>Integrated all components on to one form, no more buttons to launch separate windows.</ul>
+
 <h3>v0.3 - 03/26/2019</h3>
 <ul>
   <li>Integrated the image component.</li>
