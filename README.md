@@ -27,3 +27,5 @@ Class project for Java OOP. Done as a group with two other people. So far, integ
   <li>Two separate Java classes -- one for the main table dialog and second for the table editor which is a JFrame containing some JPanels including one with a JTable that lets the user visually fill in the table cells, much like in Excel.</li>
   <li>The save button implentation in the table editor dialog is <em>not yet</em> functional. When it is, it should output the table data as an HTML string that is inserted into the main HTML textarea in the table dialog.</li>
   </ul>
+
+### Does markdown work with markup? Haha, looking on to, it looks like we can.
